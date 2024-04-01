@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">✨ Creating bugs since 2018<br>📚 I'm currently working of Flutter projects<br>👯 I'm looking to collaborate on insightful projects<br>🤝 I'm looking for Full Stack Flutter Developer gigs</p>
+<p align="left">✨ Creating bugs since 2018<br>📚 I'm currently working on Flutter projects<br>👯 I'm looking to collaborate on insightful projects<br>🤝 I'm looking for Full Stack Flutter Developer gigs</p>
 
 ###
 
